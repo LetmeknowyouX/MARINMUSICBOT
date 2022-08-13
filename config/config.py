@@ -45,7 +45,7 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL", "")
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/lofi_vibey")
+    "SUPPORT_GROUP", "https://t.me/Moosetape_group_X")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 
@@ -103,7 +103,7 @@ clean = {}
 
 autoclean = []
 
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/56d1760224589ee370186.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/cd1859648f2204591c013.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
