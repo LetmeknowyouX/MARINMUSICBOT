@@ -1,5 +1,5 @@
-## Created By < @Its_romeoo >
-## Romeo-xD !!
+## Created By < @Let_me_know_U_X >
+## Milan-xD !!
 
 import asyncio
 import os
