@@ -24,7 +24,7 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Moosetape X One ")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "MARINE X PLAYER")
 
 OWNER_ID = list(
     map(int, getenv("OWNER_ID", "5148085059").split())
@@ -45,7 +45,7 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL", "")
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/Moosetape_group_X")
+    "SUPPORT_GROUP", "https://t.me/lofi_vibey")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 
