@@ -24,10 +24,10 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "MARINE X PLAYER")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "VALENTINA X MUSIC")
 
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "5148085059").split())
+    map(int, getenv("OWNER_ID", "5612345807").split())
 )
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -43,7 +43,7 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "")
+    "SUPPORT_CHANNEL", "https://t.me/MoonMakerr_XD")
 SUPPORT_GROUP = getenv(
     "SUPPORT_GROUP", "https://t.me/lofi_vibey")
 
@@ -103,7 +103,7 @@ clean = {}
 
 autoclean = []
 
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph//file/08494938f83605b9e87af.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph//file/bc18879fba563d8f3b7b6.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
